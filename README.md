@@ -1,4 +1,4 @@
-# Coordinated online reinforcement learning for self-adaptive systems using factored Q-learning -- Submitted @ACSOS2025
+# Coordinated online reinforcement learning for self-adaptive systems using factored Q-learning -- Accepted @ACSOS2025
 
 Tested against Java 17. The file run_experiments.sh exports the
 `JAVA_HOME` variable.  May require adjustment.
